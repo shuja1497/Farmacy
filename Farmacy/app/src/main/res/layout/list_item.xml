@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+  <android.support.v7.widget.CardView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+
+              <RelativeLayout
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:padding="10dp"
+                  android:id="@+id/rel"
+                  android:background="@drawable/ww">
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/date"
+                      android:text="DATE:"
+                      android:layout_marginTop="10dp"
+                      android:textStyle="bold"
+                      android:textSize="15dp"/>
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/datetxt"
+                      android:layout_marginTop="10dp"
+                      android:layout_toRightOf="@+id/date"
+                      android:layout_marginLeft="10dp"
+                      android:textSize="15dp"/>
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/mint"
+                      android:text="MIN TEMP :"
+                      android:textStyle="bold"
+                      android:layout_below="@+id/date"
+                      android:layout_marginTop="10dp"
+                      android:textSize="15dp"/>
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/mintv"
+                      android:layout_toRightOf="@id/mint"
+                      android:layout_below="@id/date"
+                      android:textSize="15dp"
+                      android:layout_marginLeft="10dp"
+                      android:layout_marginTop="10dp"
+                      />
+
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/maxt"
+                      android:text="MAX TEMP :"
+                      android:textStyle="bold"
+                      android:layout_toRightOf="@id/mint"
+                      android:layout_below="@+id/date"
+                      android:layout_marginLeft="100dp"
+                      android:layout_marginTop="10dp"
+                      android:textSize="15dp"/>
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/maxtv"
+                      android:layout_toRightOf="@id/maxt"
+                      android:layout_below="@id/date"
+                      android:textSize="15dp"
+                      android:layout_marginLeft="10dp"
+                      android:layout_marginTop="10dp"
+                      />
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/minh"
+                      android:text="MIN HUMIDITY :"
+                      android:textStyle="bold"
+                      android:layout_marginTop="10dp"
+                      android:layout_below="@+id/mint"
+                      android:textSize="15dp"/>
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/minhv"
+                      android:layout_toRightOf="@id/minh"
+                      android:layout_below="@id/mintv"
+                      android:textSize="15dp"
+                      android:layout_marginLeft="10dp"
+                      android:layout_marginTop="10dp"
+                      />
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/maxh"
+                      android:text="MAX HUMIDITY :"
+                      android:textStyle="bold"
+                      android:layout_marginTop="10dp"
+                      android:layout_below="@+id/maxt"
+                      android:layout_alignLeft="@id/maxt"
+                      android:textSize="15dp"/>
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/maxhv"
+                      android:layout_toRightOf="@id/maxh"
+                      android:layout_below="@id/mintv"
+                      android:textSize="15dp"
+                      android:layout_marginLeft="10dp"
+                      android:layout_marginTop="10dp"
+                      />
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/prec"
+                      android:layout_marginTop="10dp"
+                      android:text="RAINFALL :"
+                      android:textStyle="bold"
+                      android:layout_below="@+id/minh"
+                      android:layout_marginLeft="100dp"
+                      android:textSize="15dp"/>
+
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/precv"
+                      android:layout_toRightOf="@id/prec"
+                      android:layout_below="@id/maxh"
+                      android:textSize="15dp"
+                      android:layout_marginLeft="10dp"
+                      android:layout_marginTop="10dp"
+                      />
+                  <TableRow
+                      android:id="@+id/hr1"
+                      android:layout_width="match_parent"
+                      android:layout_height="1dp"
+                      android:background="#444"
+                      ></TableRow>
+
+              </RelativeLayout>
+
+  </android.support.v7.widget.CardView>
+
+</LinearLayout>
