@@ -10,4 +10,453 @@
     <string name="flash_auto">Flash auto</string>
     <string name="flash_off">Flash off</string>
     <string name="flash_on">Flash on</string>
+
+    <string-array name="diseases">
+        <item>Apple Scab, Venturia inaequalis</item>
+        <item>Apple Black Rot,</item>
+        <item> Apple Cedar Rust, </item>
+        <item>Apple Healthhy</item>
+        <item>Blueberry Healthy</item>
+        <item>cherry healthy</item>
+        <item>Cherry Powdery Mildew</item>
+        <item> Corn Gray Leaf Spot</item>
+        <item>Corn Common Rust</item>
+        <item>Corn healthy</item>
+        <item>Corn Northern Leaf Blight,Exserohilum turcicum</item>
+        <item>Grape Black Rot, Guignardia bidwellii</item>
+        <item>Grape Black Measles (Esca),Phaeomoniella aleophilum, Phaeomoniella chlamydospora</item>
+        <item>Grape Healthy</item>
+        <item>Grape Leaf Blight,Pseudocercospora vitis</item>
+        <item>Orange Huanglongbing (Citrus Green-ing),Candidatus Liberibacter spp.</item>
+        <item>Peach Bacterial Spot,Xanthomonas campestris</item>
+        <item>Peach healthy</item>
+        <item>Bell Pepper Bacterial Spot,Xanthomonas campestris</item>
+        <item>Bell Pepper healthy</item>
+        <item>Potato Early Blight, Alternaria  solani</item>
+        <item>***Healthy</item>
+        <item>Potato Late Blight,Phytophthora infestans</item>
+        <item>***Healthy</item>
+        <item>***Healthy</item>
+        <item>Squash Powdery Mildew,Erysiphe cichoracearum</item>
+        <item>***Healthy</item>
+        <item>Strawberry Leaf Scorch,Diplocarpon earlianum</item>
+        <item>Tomato Bacterial Spot,Xanthomonas  campestris  pv.   vesicatoria</item>
+        <item>Tomato Early Blight</item>
+        <item>Late bLight </item>
+        <item>Tomato Leaf Mold</item>
+        <item>Tomato Septoria Leaf Spot</item>
+        <item>Tomato Two Spotted Spider Mite</item>
+        <item>Tomato Target Spot</item>
+        <item>Tomato Mosaic Virus</item>
+        <item>Tomato Yellow Leaf Curl Virus</item>
+        <item>Tomato healthy</item>
+    </string-array>
+    <string-array name="causes">
+        <!--prafull-->
+        <item>fungus Venturia inaequalis</item>
+        <item>fungus Botryosphaeria obtusa</item>
+        <item>Gymnosporangium juniperi-virginianae</item>
+        <item>Healthhy</item>
+        <item>Healthhy</item>
+        <item>Healthhy</item>
+        <item>Podosphaera spp</item>
+        <item>Cercospora zeae-maydis</item>
+        <item> Puccinia sorghi</item>
+        <item>Healthhy</item>
+
+
+        <!--tanya-->
+        <item>->Caused by Exserohilum turcicum (previously classified as Helminthosporium turcicum),
+a fungus found in humid climates wherever corn is grown.
+->Favored by heavy dews, frequent showers, high humidity and moderate temperatures.
+->Spores are spread by rain splash and air currents to the leaves of new crop plants
+ in spring and early summer. Spores may be carried long distances by the wind.
+->Infection occurs when free water is present on the leaf surface for 6 to 18 hours
+and temperatures are 65 to 80 F.</item>
+        <item>Grape black rot is a fungal disease caused by an ascomycetous fungus, Guignardia bidwellii, that attacks grape vines during hot and humid weather.
+-> Ascospores are discharged by rainfall, causing leaf lesions and infecting blossoms and young fruit.
+->The optimal temperature for leaf infection and germination is 80.6°F.Longer wet periods are required for lower temperatures.
+</item>
+        <item>->The  fungus Phaeomoniella  chlamydospora is one of the main causal organism of Petri disease and esca of grapevine.
+->Phaeomoniella chlamydospora can spread an air-borne inoculum and can invade the wood through wounds.
+</item>
+        <item>Healthy</item>
+        <item>->The causal organism of anthracnose is Elsinoe ampelina.
+->Sclerotia overwinter in infected areas of the grape vine or infected berries on the vineyard floor and in the spring release conidia when wet for 24 hours or more at temperatures above 35.6°F.
+->Conidia germinate in green tissue when free water is present for 12 hours or more.
+->Optimal temperatures for disease development are 75.2-78.8° F.  Disease development can be severe during years of heavy rainfall.
+</item>
+        <item>-> It is caused by a gram-negative bacterium named Candidatus Liberibacter, spread by the psyllids Trioza erytrea and Diaphorina citri, acting as natural vectors.
+->disease is also propagated by grafting.
+</item>
+        <item>->caused by Xanthomonas campestris pv. pruni.
+->The pathogen overwinters in dark, gummy branch tips, and diseased twigs.
+-> a high amount of leaf infection and warm wet conditions can cause the continuation of fruit infections after pit hardening in mid- to late June.
+</item>
+        <item>healthy</item>
+        <item>->a single bacterial species, classified as Xanthomonas vesicatoria and later as X. campestris pv. vesicatoria, was considered the cause of bacterial spot of both pepper and tomato.
+->range of the different strains can be determined by infiltrating a bacterial suspension into the leaf and observing the response. Within 18 to 36 hours, a resistant response is indicated by a rapid collapse of the infiltrated area.
+</item>
+        <item>healthy</item>
+
+
+        <!--khyati-->
+        <item>> Warm, rainy and wet weather
+
+-> Early blight (EB) is a disease of potato caused by the fungus Alternaria solani.
+
+//new york
+
+-> Fungal spores overwinter in plant debris and tubers that were left behind after harvest, but waits to activate until the humidity is high and daytime temperatures first reach 75 F. (24 C.).
+
+-> The fungus overwinters either on potato tubers or in dead, infected plant debris either in the soil or on the soil surface.
+
+-> Environmental factors and plant vigor also help to determine when the first EB lesions are found.
+
+-> Infection can occur from early to mid July when frequent rains or dews occur and daytime temperatures remain near 75-80 F. The fungus can penetrate the leaf surface directly through the epidermis and spots begin appearing in 2-3 days.
+</item>
+        <item>healthy</item>
+        <item>
+-> High humidity , Low temperature and leaf wetness
+
+-> Late Blight is a disease caused by the fungus Phytophthora infestans
+
+-> Usually it lives in infected potato tubers (Fig. 2), which can survive in storage or the soil (to become volunteers) after harvest or anywhere potatoes might be discarded.
+
+-> Infected tubers that are planted or cull tubers that survive the winter may be sources of the pathogen that initiate epidemics the following season.
+
+-> P. infestans is usually dispersed aerially one to several miles from the overwintering site to living potato or tomato foliage via sporangia which can survive exposure to dry, sunny conditions for up to an hour and even longer under cloudy conditions.
+</item>
+        <item>healthy</item>
+        <item>healthy</item>
+        <item>-> Podosphaera xanthii (previously known as Sphaerotheca fuliginea and S. fusca) and Erysiphe cichoracearum are the two most commonly recorded fungi causing cucurbit powdery mildew.
+
+->  E. cichoracearum may have a lower temperature optimum since this species is found mainly during cooler spring and early summer periods and P. xanthii appears to progress most rapidly during the warmer months.
+
+-> The fungus grows best in high humidity, dry conditions, shady areas, and moderate temperatures of 60°F to 80°F(16°C to 27°C).
+
+-> All powdery mildew fungi require living plant tissue to grow. Year-round availability of crop or weed hosts is important for the survival of some powdery mildew fungi. Special resting spores are produced, allowing overwinter survival of the species that causes the disease in cucurbits, lettuce, peas, and certain other crops.</item>
+        <item>healthy</item>
+        <item>-> The leaf scorch fungus, Diplocarpon earliana, attacks the leaves, petioles, runners, pedicels, and calyxes of strawberry plants.
+
+-> In annual production systems, the disease can come on transplants or tips and build up in the plug production phase in the early fall in the field.
+
+-> Spores are produced in the spring and midsummer on lower leaf surfaces of dead leaves infected in the previous year, and are spread by wind and splashing rain.
+
+-> Disease increase is favored by leaf wetness during warm weather (68-86°F), and is likely to become more significant on older plantings of susceptible varieties.</item>
+        <item>-> Xanthomonas campestris pv. vesicatoria
+
+-> Bacterial pathogens need moisture to multiply. Wet conditions in the plant canopy due to rain, fog, dew, high humidity or irrigation give the bacteria a suitable environment for growth.
+
+-> Each pathogen has a particular temperature range, in which it is at its peak rate of growth and infection. The pathogens multiply much more slowly outside this optimum range.
+
+-> bacterial spot 	Xanthomonas campestris pv. vesicatoria 	24°C- 30°C</item>
+        <item>healthy</item>
+
+
+        <!--shuja-->
+        <item>Phytophthora infestans, the pathogen that causes tomato late blight, needs tissue to survive. Sporangia from an infected plant are carried through the air, sometimes
+several miles, and once they land on a suitable host, germination is almost immediate. Tomato late blight needs only a few hours to take hold. All it wants is a little
+free moisture on the leaves from rain, fog, or morning dew. Once infected, late blight symptoms will become visible in three or four days. Small lesions appear on stems,
+ leaves, or fruit. If the weather is damp and the temperature moderate – just like most rainy summer days – the pathogen would sporulate around these lesions and the late
+ blight tomato disease will be ready to spread to the rest of the garden and beyond. The tiny lesions of late tomato blight are hard to spot and sometimes go unnoticed.
+ The late blight symptoms become more obvious when the area around the lesions appears water soaked or bruised and turns grey-green or yellowed. Each late tomato blight
+ lesion can produce up to 300,000 sporangia a day and each of those sporangium are capable of forming a new lesion. Once begun, late blight tomato disease can sweep
+through acres in a matter of weeks. Plant foliage will be completely destroyed and the fruit will be ruined by dark, greasy looking blotches of necrotic flesh.
+Read more at Gardening Know How: Identifying And Preventing Late Blight On Tomatoes https://www.gardeningknowhow.com/edible/vegetables/tomato/tomato-late-blight.htm</item>
+        <item>With this type of fungus, it is rare that the fruit is infected as well. The signs to look for are all on the leaves. The tops will begin to develop small, white, gray,
+ yellow, or pale green patches. The underside of the leave will have a fuzzy feel that is purple in color. Sometimes the fuzz will be olive green. The “fuzz” is actually
+ spores of the fungus.
+The infected tissue becomes yellowish-brown and the leaf begins to wither, eventually falling off of the plant. Untimately the whole plant will wither and die.
+In the rare case that the blossom or fruit is infected, the mold will appear as a black sore-like lesion. The black can grow to cover over half of the surface area of
+the plant or blossom. Tomato leaf mold affects ripe tomatoes as well as green tomatoes.
+</item>
+        <item>Septoria leaf spot is caused by septoria lycopersici, a fungus that lives in the soil near tomato plants or on weeds that can grow in gardens. The fungus creates spores
+that are carried by wind and rain to uninfected plants. The fungus causes deterioration of the plant foliage.
+
+Once a plant has been infected with it, the leaves will begin to show random wet-looking spots all over, which will grow to a larger size and change to a light brown or
+ tan color. The leaves may even have small spore-producing masses on the spots. As the infection worsens, the leaves will die and fall to the ground.</item>
+        <item>healthy</item>
+        <item>healthy</item>
+        <item>There are many ways that a tomato plant can be contaminated with mosaic virus. A common method of infection is by the debris of virally infected plants still in the
+soil. This virus can survive for at least 50 years in dead, dried plant debris.
+
+Gardeners that smoke or use tobacco products may infect plants with the virus left on their hands after handling contaminated tobacco. Insects can transmit the virus,
+ but are not considered a major source of infection. An infection can also be obtained from contaminated gardening tools, pots, or planters.
+
+Light and dark green mottled areas will appear on the leaves of tomato plants infected with this virus, Other symptoms include stunted growth, fruit deformities, and a
+reduction in the amount of fruit produced.
+
+It usually starts with a light green color between the veins of newer leaves. The development of the “mosaic” or speckled pattern that the virus is named for begins after
+that stage. When the tomatoes are cut open, the insides may have brown areas. Leaves may curl, yellow, and become fern-like in appearance.
+</item>
+        <item>Tomato leaf curl disease is not transmitted in seed, soil or from plant to plant by handling. It is harboured in infected host plants, some of which may be hosts that do
+ not show symptoms. The virus causing tomato leaf curl disease is spread from plant to plant by silverleaf whitefly (SLW) (the biotype B of Bemisia tabaci). SLW is a
+serious pest in tomatoes and other vegetable crops in the coastal and some inland areas of Queensland and New South Wales. It is an established pest in Western Australia
+ and cotton production systems in Queensland.
+
+Although the nymphal stages of SLW can acquire virus from infected plants, it is the active adult insects that are responsible for almost all virus spread into and
+within crops.
+
+SLW adults acquire the virus while feeding, using their piercing-sucking mouthpart to pierce plant cells and suck sap through a stylet. The virus persists in the insect
+ which can then transmit the virus throughout its life. SLW need to feed on infected plants for at least 15 minutes to acquire the virus and then feed on another host
+ plant for 15 to 30 minutes to transmit the virus. Transmission efficiency increases as the duration of the feeding times increases.
+
+Although the transmission efficiency of individual insects may be low, the enormous populations of SLW moving within and between crops can result in rapid spread and
+high disease levels. Research results are inconclusive, but TYLCV is probably not carried from generation to generation through the SLW egg. This virus is not spread
+by other sap-sucking insects such as aphids or leafhoppers nor by leaf-eating pests such as grasshoppers, heliothis larvae or beetles.
+</item>
+        <item>healthy</item>
+    </string-array>
+    <string-array name="treatment">
+
+        <!--prafull-->
+        <item>1.Choose resistant varieties when possible.
+2.Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring.
+3.Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur.
+4.Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores.
+5.For best control, spray liquid copper soap early, two weeks before symptoms normally appear. Alternatively, begin applications when disease first appears, and repeat at 7 to 10 day intervals up to blossom drop.</item>
+        <item>Treating black rot on apple trees starts with sanitation. Because fungal spores overwinter on fallen leaves, mummified fruits, dead bark and cankers, it’s important to keep all the fallen debris and dead fruit cleaned up and away from the tree. During the winter, check for red cankers and remove them by cutting them out or pruning away the affected limbs at least six inches beyond the wound. Destroy all infected tissue immediately and keep a watchful eye out for new signs of infection. Once black rot disease is under control in your tree and you’re again harvesting healthy fruits, make sure to remove any injured or insect-invaded fruits to avoid re-infection. Although general purpose fungicides, like copper-based sprays and lime sulfur, can be used to control black rot, nothing will improve apple black rot like removing all sources of spores
+
+Read more at Gardening Know How: What Is Black Rot: Treating Black Rot On Apple Trees https://www.gardeningknowhow.com/edible/fruits/apples/black-rot-on-apple-trees.htm
+</item>
+        <item>1.Choose resistant cultivars when available.
+2.Rake up and dispose of fallen leaves and other debris from under trees.
+3.Remove galls from infected junipers. In some cases, juniper plants should be removed entirely.
+4.Apply preventative, disease-fighting fungicides labeled for use on apples weekly, starting with bud break, to protect trees from spores being released by the juniper host. This occurs only once per year, so additional applications after this springtime spread are not necessary.
+5.
+On juniper, rust can be controlled by spraying plants with a copper solution (0.5 to 2.0 oz/ gallon of water) at least four times between late August and late October.</item>
+        <item>Healthhy</item>
+        <item>Healthhy</item>
+        <item>Healthhy</item>
+        <item>1.Neem oil is a plant-based insecticide that also works as a fungicide and has the advantage of being less toxic for backyard use. However, it can injure leaves when applied in temperatures over 90 degrees or when plants are drought-stressed, as is often the case in the Sacramento area. Oil sprays deposited on foliage and stems can block the air openings of plants. This may result in leaf burn, darkened bark and dead twigs and branches.
+2.Oil burn can be minimized or avoided if trees are not stressed when sprayed. Lack of moisture, extreme or sudden change in temperature, prolonged winds, disease or a heavy pest infestation can predispose plants to damage. Also, more significant damage can occur if neem oil is applied within a few weeks of a sulfur spray.
+3.If the trees are located in a lawn area, they also could be receiving too much water. Overwatering, especially in soil that does not drain well (such as clay found in much of the Sacramento region), can damage roots and create an ideal environment for tree-root diseases. Cherries are very susceptible to root and crown rots, which can cause leaves to discolor, wilt and/or drop prematurely.
+4.For established trees, irrigation should be every 10 to 14 days and sufficient to encourage the water to penetrate down at least 3 feet a few days after watering. This will encourage deeper root growth. In addition, trees should be watered at the drip line (the area directly under the outer circumference of the tree branches) and away from the trunk. Adding a 3-inch layer of mulch under the tree (a few inches away from the trunk) will help keep the roots happy, encourage earthworms to aerate the soil and allow less frequent watering.
+5.The leaf problem also may be due to cherry leaf spot, a fungal disease (caused by the pathogen Blumeriella jaapii) that tends to thrive in more humid conditions. Although this disease is less common in California, the same damp conditions that helped promote the powdery mildew also may be setting the stage for this fungus to develop.
+
+
+
+
+</item>
+        <item>No Treatment</item>
+        <item>No Treatment</item>
+        <item>No Treatment</item>
+
+
+        <!--tanya-->
+        <item>->Resistant Hybrids:Crop rotation to reduce previous corn residues and disease inoculum
+->Reducing Previous Corn Residue:Tillage to help break down crop debris and reduce inoculum load
+->Fungicide Application: Fungicide application to reduce yield loss and improve harvestability
+->Timely Planting:Consider hybrid susceptibility, previous crop, tillage, field history, application cost, corn price
+</item>
+        <item>->Cultural Control:Cultural practices that open the canopy are beneficial because they increase air circulation and improve spray coverage. Good weed control beneath the vines also enables plants to dry more quickly during wet weather.
+
+->Early Warning Systems and IPM:A microprocessor programmed to predict grape black rot infection was evaluated in the field. It effectively determined infection periods and was used to time curative fungicide applications.
+
+->Host-Plant Resistance:Species of Vitis and cultivars within species differ in their susceptibility to black rot. Some species of Vitis, in increasing order of resistance to black rot, are as follows: V. vinifera (very susceptible), V. arizonica, V. californica, V. labrusca.
+</item>
+        <item>->Presently, there are no effective management strategies for measles. Wine grape growers with small vineyards will often have field crews remove infected fruit prior to harvest. Raisins affected by measles will be discarded during harvest or at the packing house, while table grape growers will leave affected fruit on the vine. Current research is focused on protecting pruning wounds from fungal infections to minimize suspect fungi from colonizing fresh wounds.
+</item>
+        <item>Healthy</item>
+        <item>->Care must be taken in selection of grape varieties, as some are more susceptible to anthracnose than others.
+-> Fungicides should be applied at label-recommended intervals and rates.
+</item>
+        <item>->disease is also propagated by grafting. on feeding the trees via foliar sprays.
+->Control by prevention includes the destruction of all diseased trees, chemical and biological (natural enemies) control of the psyllids and observance of strict quarantine procedures.
+->The Asian citrus psyllid has alternative hosts such as Murraya paniculata, Severinia buxifolia, and other plants in the Rutaceae family.Clearing or controlling these alternative hosts will be an important consideration as they may attract psyllids to citrus plants in the vicinity.
+</item>
+        <item>>Removal of gummy tissue during spring pruning may help to reduce inoculum levels.
+->few bactericide chemicals availableinclude copper, oxytetracycline and syllit+captan.
+->Copper provides a third alternative for bacterial spot control where needed but with a somewhat greater risk of phytotoxicity.
+</item>
+        <item>healthy</item>
+        <item>->The primary management strategy of bacterial spot begins with use of certified pathogen-free seed and disease-free transplants.
+->The bacteria do not survive well once host material has decayed, so crop rotation is recommended.
+->Pepper plants are routinely sprayed with copper-containing bactericides to maintain a "protective" cover on the foliage and fruit .
+->Strains of the pathogen resistant to copper and/or streptomycin are fairly common and can be detected by plating bacteria on media containing these compounds.
+</item>
+        <item>healthy</item>
+
+
+        <!--khyati-->
+        <item>->Prune or stake plants to improve air circulation and reduce fungal problems.
+
+->Make sure to disinfect your pruning shears (one part bleach to 4 parts water) after each cut.
+
+->Keep the soil under plants clean and free of garden debris. Add a layer of organic compost to prevent the spores from splashing back up onto vegetation.
+
+->Drip irrigation and soaker hoses can be used to help keep the foliage dry.
+
+->Apply copper-based fungicides early, two weeks before disease normally appears or when weather forecasts predict a long period of wet weather. Alternatively, begin treatment when disease first appears, and repeat every 7-10 days for as long as needed.
+</item>
+        <item>healthy</item>
+        <item>
+-> Plant resistant cultivars when available.
+
+-> Remove volunteers from the garden prior to planting and space plants far enough apart to allow for plenty of air circulation.
+
+-> Water in the early morning hours, or use soaker hoses, to give plants time to dry out during the day — avoid overhead irrigation.
+
+-> Destroy all potato debris after harvest.
+
+-> Apply a copper based fungicide (2 oz/ gallon of water) every 7 days or less, following heavy rain or when the amount of disease is increasing rapidly. If possible, time applications so that at least 12 hours of dry weather follows application.
+</item>
+        <item>healthy</item>
+        <item>healthy</item>
+        <item>-> Plant resistant cultivars in sunny locations whenever possible.
+        -> Prune or stake plants to improve air circulation. Make sure to disinfect your pruning tools (one part bleach to 4 parts water) after each cut.
+
+        -> Remove diseased foliage from the plant and clean up fallen debris on the ground.
+
+        -> Use a thick layer of mulch or organic compost to cover the soil after you have raked and cleaned it well. Mulch will prevent the disease spores from splashing back up onto the leaves.
+
+        -> Milk sprays, made with 40% milk and 60% water, are an effective home remedy for use on a wide range of plants. For best results, spray plant leaves as a preventative measure every 10-14 days.
+
+        -> Apply sulfur or copper-based fungicides to prevent infection of susceptible plants. For best results, apply early or at first sign of disease. Spray all plant parts thoroughly and repeat at 7-10 day intervals up to the day of harvest.
+
+        -> Green Cure Fungicide contains a patented formula of potassium bicarbonate — commonly used in food products — that kills many plant diseases on contact and provides up to 2 weeks of residual protection. At first sign of disease, mix 1-2 Tbsp/ gallon of water and apply to all exposed surfaces of the plant.
+        </item>
+
+        <item>healthy</item>
+        <item>No cure
+
+        Preventive measures include
+
+        -> Keep the soil under the tree clean and rake up fallen fruit.
+
+        -> Use a thick layer of mulch to cover the soil after you have raked and cleaned it well. Mulch will reduce weeds and prevent the disease pathogen from splashing back up onto the leaves.
+
+        -> Prune or stake plants to improve air circulation. Make sure to disinfect your pruning equipment (one part bleach to 4 parts water) after each cut.
+
+        -> Leaf spot among vegetables is most often introduced through infected seed or transplants. Make sure your seeds and transplants are from leaf spot-free stock.
+
+        -> Apply sulfur sprays or copper-based fungicides weekly at first sign of disease to prevent its spread. These organic fungicides will not kill leaf spot, but prevent the spores from germinating.
+
+        -> Safely treat most fungal and bacterial diseases with SERENADE Garden. This broad spectrum bio-fungicide uses a patented strain of Bacillus subtilis that is registered for organic use. Best of all, SERENADE is completely non-toxic to honey bees and beneficial insects.
+
+        Spraying with a baking soda solution , or neem oil. Baking soda may burn some plant leaves. Spray only a few and then check for a reaction before applying applications every two weeks.
+        </item>
+
+        <item>To avoid bacterial spot, cultivators should buy certified disease-free tomato seeds and use sterilized soil or a mix that is commercially rendered. If it is not possible to acquire disease-free tomato seeds, your seeds should be submerged for one minute in 1.3% sodium hypochlorite, which helps eliminate bacteria on their surface. Another option exists in submerging the seeds in 122-degree Fahrenheit water for 25 minutes. This will affect surface and inner seed bacteria, but might adversely affect the plant’s germination.
+
+        Tomato crop rotation can also be utilized each year to minimize the spread of bacterial spot. In addition, cultivators should ensure that the tomato plants do not receive too much water, as moist conditions attract the spot-causing bacteria.
+
+        In addition to the prevention methods above, copper fungicides for tomatoes will deny the growth of bacterial spot for two to four weeks. This type of fungicide is used after planting the seeds, but before transplanting plants to the field.
+
+        Copper sprays are best applied before any signs of disease are present, since this will enable them to better control it. For the most effective protection, these types of sprays should be used before and after rain, but not during. If spots are discovered, spray plants for 7 to 10 days, and for one day before transplanting them. Once in the field, spotted plants should be sprayed one week after being planted, every 5 to 7 days when the weather is rainy, and every 10 days when the weather is drier.
+        </item>
+        <item>
+        -> Prune or stake plants to improve air circulation and reduce fungal problems.
+
+        -> Make sure to disinfect your pruning shears (one part bleach to 4 parts water) after each cut.
+
+        -> Keep the soil under plants clean and free of garden debris. Add a layer of organic compost to prevent the spores from splashing back up onto vegetation.
+
+        -> Drip irrigation and soaker hoses can be used to help keep the foliage dry.
+
+        -> apply copper-based fungicides early, two weeks before disease normally appears or when weather forecasts predict a long period of wet weather. Alternatively, begin treatment when disease first appears, and repeat every 7-10 days for as long as needed.
+
+        </item>
+
+        <!--shuja-->
+        <item>Late bLight (https://www.planetnatural.com/pest-problem-solver/plant-disease/late-blight/)
+        Plant resistant cultivars when available.
+        Remove volunteers from the garden prior to planting and space plants far enough apart to allow for plenty of air circulation.
+        Water in the early morning hours, or use soaker hoses, to give plants time to dry out during the day — avoid overhead irrigation.
+        Destroy all tomato and potato debris after harvest
+        </item>
+        <item>
+        When you notice the infected areas, the first thing you can do is let the plants air out. If they are being grown in a green house, air exposure is a must, because the
+         humidity that the fungus needs to survive is dried up.
+
+        If the tomatoes are being grown outside, try to keep from wetting the leaves when you are watering the plants. When you water the plants, earlier watering is optimal
+        because it allows the plant time to dry when the sun comes, keeping humidity around leaves to a minimum.
+
+        Another option for treatment is fungacide sprays. When using these sprays, be sure to cover each part of the plant that is above ground, paying special attention to the
+         underside of the leaf. Some of the most widely recommended sprays are those containing calcium chloride. There are some organic fungicides available as well.
+
+        Some remedies that can be mixed up right in your kitchen include an apple-cider and vinegar mix to treat the mold. Corn and garlic spray can be used to prevent the fungi
+         outbreaks before they even occur. A milk spray is also a natural, helpful cure.
+        </item>
+        <item>
+        There are many methods available to treat and control septoria leaf spot on tomato plants. It is recommended that you engage in what is known as clean cultivation, in
+         which you inspect your plants and remove the sick and dead ones from your garden. It is preferable, when these plants are removed, that you use them to make compost
+        so that nutrients are put back into the soil.
+        Tomato fungicides are another option for treatment. These should be mixed with water and sprayed all over the plants in the morning and before and after it rains. You
+         can also buy ready-made fungicide sprays for tomatoes and use them in the same way. These products are best used before disease sets in, but are also useful after the
+         first signs of disease. Many of the best fungicide products contain copper, which is extremely toxic to the fungus and rapidly kills it.
+        Once treatment has been applied, it is imperative to control the spread of the disease and prevent any recurrences. Here are steps you can take when caring for your
+        tomato plants.
+        Use a control method to keep weeds at bay. Since septoria lycopersici is found on horse nettle and jimsonweed, keep your garden free of these.
+        For preventative purposes, try to plant your tomatoes early in the season, since the fungus is less likely to thrive in colder temperatures, or you can try rotating your
+         plants so that you only plant tomatoes in one spot in your garden once every few years.
+        Mulching can be used as an effective preventative as well, since it is a way to keep potentially infected soil from coming into contact with your plants.
+        You should not handle your tomato plants when they are wet, and be careful not to water them too much, as too much moisture invites fungus. Watering your tomato plants
+         every few days, as opposed to every day, will provide them adequate moisture and discourage fungus infestation.
+        </item>
+        <item>Prune leaves, stems and other infested parts of plants well past any webbing and discard in trash (and not in compost piles). Don’t be hesitant to pull entire plants to prevent the mites spreading to its neighbors.
+            Use the Bug Blaster to wash plants with a strong stream of water and reduce pest numbers.
+            Commercially available beneficial insects, such as ladybugs, lacewing and predatory mites are important natural enemies. For best results, make releases when pest
+        levels are low to medium.
+            Nuke Em, a relatively new organic insecticide containing food-grade ingredients, works fast and kills most indoor gardening pests at the egg, larvae or adult stage.
+         Best of all, it does this without leaving a residue on the leaves that can impact flavor.
+            BotaniGard ES is a highly effective biological insecticide containing Beauveria bassiana, an entomopathogenic fungus that attacks a long-list of troublesome crop
+         pests – even resistant strains! Weekly applications can prevent insect population explosions and provide protection equal to or better than conventional chemical
+        pesticides.
+            Mix Pure Neem Oil with Coco-Wet and apply every 3-5 days to kill pest eggs indoors and interrupt the reproductive cycle. Make sure to spray all plant parts,
+        including the undersides of leaves. Do NOT apply when temperatures exceed 90˚F and wait at last six hours before turning lights on.
+            If populations are high, use a least-toxic, short-lived pesticide (Take Down Spray, Doktor Doom Foggers) to reduce infestations, then release predatory mites to
+         maintain control.
+            Insecticidal soap or botanical insecticides can be used to spot treat heavily infested areas.
+            On fruit trees, horticultural oil should be applied early in the season or late in the fall to destroy overwintering eggs.
+            Dust on leaves, branches and fruit encourages mites. A mid-season hosing (or two!) to remove dust from trees is a worthwhile preventative.
+            Water stress makes both trees and garden plants more susceptible to mite infestations. Make sure your plants are properly watered.
+        </item>
+        <item>
+        Target spot tomato treatment requires a multi-pronged approach. The following tips for treating target spot on tomatoes should help: Remove old plant debris at the end
+        of the growing season; otherwise, the spores will travel from debris to newly planted tomatoes in the following growing season, thus beginning the disease anew. Dispose
+         of the debris properly and don’t place it on your compost pile unless you’re sure your compost gets hot enough to kill the spores. Rotate crops and don’t plant tomatoes
+        in areas where other disease-prone plants have been located in the past year – primarily eggplant, peppers, potatoes or, of course – tomatoes. Rutgers University
+        Extension recommends a three-year rotation cycle to reduce soil-borne fungi. Pay careful attention to air circulation, as target spot of tomato thrives in humid
+        conditions. Grow the plants in full sunlight. Be sure the plants aren’t crowded and that each tomato has plenty of air circulation. Cage or stake tomato plants to
+         keep the plants above the soil. Water tomato plants in the morning so the leaves have time to dry. Water at the base of the plant or use a soaker hose or drip system
+         to keep the leaves dry. Apply a mulch to keep the fruit from coming in direct contact with the soil. Limit to mulch to 3 inches or less if your plants are bothered by
+         slugs or snails. You can also apply fungal spray as a preventive measure early in the season, or as soon as the disease is noticed.
+        </item>
+
+        <item>The only treatment is prevention. No chemical products are available to cure or protect plants. The best factor in controlling and reducing infection is to practice
+         sanitation. Remove any infected plants, including the roots. Remove Also, discard any plants near those affected.
+
+        Wash hands with milk or soap and water as this can reduce the risk of contamination by over 90%. A gardener that has been in contact with tobacco products absolutely
+         must do this. The coat of the mosaic virus reacts with proteins in milk, so milk can be used to inactivate the virus.
+
+        Avoid planting in a field where infected tomato plants were grown. Gardening tools, pots, and planters need to be sterilized and washed regularly. A milk solution of
+         5 gallons of milk to 100 gallons of water or soap and water may be used. Steam or commercial disinfectants may also be used for disinfection. Use disease resistant
+         tomato seeds. Starter plants will have certain codes on the name tag indicated with a “T” for resistance to this virus.
+
+        Be aware of cross contamination. Tools and containers must be sterilized. Wash hands thoroughly after removing diseased plants, and especially before handling healthy
+         ones. Never handle plants without washing hands after the use tobacco products. Remember that the soil can harbor this virus for many years to come.
+        </item>
+
+        <item>There are two key points to managing the spread of TYLCV:
+        do not move infected or host plants or seedlings, or infected SLW
+        control SLW on farms, surrounding vegetation and seedling nurseries.
+        If moving plants and fruit that host TYLCV to markets:
+        within Queensland - plants and fruit may be moved without restriction.
+        to interstate markets - movement of fruit is not restricted except tomato fruit attached to its truss. This is not permitted entry to Western Australia.
+
+        Good farm management and farm hygiene practices will help manage the spread of TYLCV:
+
+        use seedling plants produced in an area free from virus and whiteflies
+        destroy old crops as soon as possible after final harvest
+        control SLW adults before destroying crops to reduce the migration of SLW to other crops
+        plant new crops as far away as practicable from existing crops which may harbour the virus and its carrier, silverleaf whitefly
+        control silverleaf whiteflies using appropriate chemicals, application methods and IPM strategies
+        maintain a high standard of weed control within and around crops to reduce hosts of both the virus and silverleaf whitefly.
+        </item>
+        <item>Healthy</item>
+
+    </string-array>
+
 </resources>

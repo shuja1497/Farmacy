@@ -22,11 +22,9 @@
         </activity>
         <activity
             android:name=".Functionalities.DetectDiseaseActivity"
-            android:theme="@style/Theme.Camera">
-        </activity>
-
-        <activity android:name=".Functionalities.WeatherForecastActivity">
-        </activity>
+            android:theme="@style/Theme.Camera"></activity>
+        <activity android:name=".Functionalities.WeatherForecastActivity"></activity>
+        <activity android:name=".Functionalities.DiseaseInfoActivity"></activity>
     </application>
 
 </manifest>
