@@ -78,7 +78,7 @@ public class DetectDiseaseActivity extends AppCompatActivity implements
             R.string.flash_on,
             };
     public static final int INPUT_SIZE = 600;
-    public static final String Uploadurl = "https://a46a740d.ngrok.io/";
+    public static final String Uploadurl = "https://f986590d.ngrok.io/";
 
     private int mCurrentFlash;
 
