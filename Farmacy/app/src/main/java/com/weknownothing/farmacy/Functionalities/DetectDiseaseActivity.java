@@ -3,6 +3,7 @@ package com.weknownothing.farmacy.Functionalities;
 import android.Manifest;
 import android.app.Dialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -77,7 +78,7 @@ public class DetectDiseaseActivity extends AppCompatActivity implements
             R.string.flash_on,
             };
     public static final int INPUT_SIZE = 600;
-    public static final String Uploadurl = "https://3e78b515.ngrok.io/";
+    public static final String Uploadurl = "https://a46a740d.ngrok.io/";
 
     private int mCurrentFlash;
 
@@ -291,6 +292,9 @@ private CameraView.Callback mCallback
                             Log.d(TAG, "*******************onResponse: "+response);
 
                             Toast.makeText(getApplicationContext(),response,Toast.LENGTH_LONG).show();
+                            Intent i = new Intent(getApplicationContext(), DiseaseInfoActivity.class);
+                            i.putExtra("index", response);
+                            startActivity(i);
                         }
                     }, new Response.ErrorListener() {
                 @Override
