@@ -30,7 +30,8 @@
 
             <android.support.constraint.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="match_parent"
+                android:background="@color/cv_disease_info_background">
 
                 <ImageView
                     android:id="@+id/imageView_detect_disease"
@@ -45,6 +46,8 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
+                    android:src="@drawable/images3"
+                    android:scaleType="fitXY"
                     android:onClick="onClick"/>
 
                 <TextView
@@ -53,7 +56,9 @@
                     android:layout_height="0dp"
                     android:text="Detect desease"
                     android:textAlignment="center"
+                    android:textAllCaps="false"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="@+id/imageView_detect_disease"
                     app:layout_constraintStart_toStartOf="@+id/imageView_detect_disease"
@@ -71,7 +76,8 @@
 
             <android.support.constraint.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="match_parent"
+                android:background="@color/cv_disease_info_background">
 
                 <ImageView
                     android:id="@+id/imageView_crop_info"
@@ -86,20 +92,23 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
+                    android:src="@drawable/index"
+                    android:scaleType="fitXY"
                     android:onClick="onClick"/>
 
                 <TextView
                     android:id="@+id/textView2"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
+                    android:onClick="onClick"
                     android:text="Crop Information"
                     android:textAlignment="center"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="@+id/imageView_crop_info"
                     app:layout_constraintStart_toStartOf="@+id/imageView_crop_info"
-                    app:layout_constraintTop_toBottomOf="@+id/imageView_crop_info"
-                    android:onClick="onClick"/>
+                    app:layout_constraintTop_toBottomOf="@+id/imageView_crop_info" />
             </android.support.constraint.ConstraintLayout>
 
         </android.support.v7.widget.CardView>
@@ -125,7 +134,8 @@
 
             <android.support.constraint.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="match_parent"
+                android:background="@color/cv_disease_info_background">
 
                 <ImageView
                     android:id="@+id/imageView_crop_suggestion"
@@ -139,7 +149,9 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:srcCompat="@color/colorAccent"
+                    android:background="@color/colorAccent"
+                    android:src="@drawable/images"
+                    android:scaleType="fitXY"
                     android:onClick="onClick"/>
 
                 <TextView
@@ -149,6 +161,7 @@
                     android:text="Crop Suggestion"
                     android:textAlignment="center"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="@+id/imageView_crop_suggestion"
                     app:layout_constraintStart_toStartOf="@+id/imageView_crop_suggestion"
@@ -167,7 +180,8 @@
 
             <android.support.constraint.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="match_parent"
+                android:background="@color/cv_disease_info_background">
 
                 <ImageView
                     android:id="@+id/imageView_weather_forecast"
@@ -181,7 +195,9 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:srcCompat="@color/colorAccent"
+                    android:background="@color/colorAccent"
+                    android:src="@drawable/images6"
+                    android:scaleType="fitXY"
                     android:onClick="onClick"/>
 
                 <TextView
@@ -191,6 +207,7 @@
                     android:text="Weather Forecast"
                     android:textAlignment="center"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="@+id/imageView_weather_forecast"
                     app:layout_constraintStart_toStartOf="@+id/imageView_weather_forecast"
