@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="16dp"
         android:background="@color/cv_disease_info_background"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -30,6 +30,7 @@
                 android:layout_height="wrap_content"
                 android:text="Disease"
                 android:textAlignment="center"
+                android:textAllCaps="true"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"
@@ -40,11 +41,17 @@
                 android:id="@+id/textView_disease"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="2dp"
+                android:layout_marginStart="2dp"
+                android:textAlignment="center"
+
+                android:textAllCaps="false"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                android:textAllCaps="true"
-                android:textAppearance="@style/TextAppearance.AppCompat.Large"
-
                 app:layout_constraintTop_toBottomOf="@+id/textView6" />
         </android.support.constraint.ConstraintLayout>
     </android.support.v7.widget.CardView>
@@ -69,6 +76,7 @@
                 android:layout_height="wrap_content"
                 android:text="Causes"
                 android:textAlignment="center"
+                android:textAllCaps="true"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"
@@ -79,15 +87,19 @@
             <ScrollView
                 android:id="@+id/scroll_view_causes"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginStart="5dp"
+                app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/textView8" >
-            <TextView
-                android:id="@+id/textView_causes"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                />
+                app:layout_constraintTop_toBottomOf="@+id/textView8">
+
+                <TextView
+                    android:id="@+id/textView_causes"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
             </ScrollView>
 
         </android.support.constraint.ConstraintLayout>
@@ -113,6 +125,7 @@
                 android:layout_height="wrap_content"
                 android:text="Treatment"
                 android:textAlignment="center"
+                android:textAllCaps="true"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"
@@ -122,14 +135,19 @@
             <ScrollView
                 android:id="@+id/scroll_view_treatment"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginStart="5dp"
+                app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/textView9" >
-            <TextView
-                android:id="@+id/textView_treatment"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                app:layout_constraintTop_toBottomOf="@+id/textView9">
+
+                <TextView
+                    android:id="@+id/textView_treatment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
             </ScrollView>
         </android.support.constraint.ConstraintLayout>
     </android.support.v7.widget.CardView>
